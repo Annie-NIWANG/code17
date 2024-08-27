@@ -1,3 +1,6 @@
 把node17 变成git 可以管理的repository
 git init
 git add 1.txt 从changes(work space) 送到staged changes
+git status 
+git log
+git commit -m '写notes'
