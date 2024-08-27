@@ -6,3 +6,5 @@ git log
 git log -- pretty --oneline
 git commit -m '写notes'
 git diff
+git checkout -- 1.txt (reset working tree)
+git reset HEAD 2.txt(reset staging)
