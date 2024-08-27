@@ -8,3 +8,5 @@ git commit -m '写notes'
 git diff
 git checkout -- 1.txt (reset working tree)
 git reset HEAD 2.txt(reset staging)
+git reset --hard HEAD~1
+git reset --hard commitID
